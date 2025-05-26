@@ -4,7 +4,7 @@ from schema import dataset, model, error_type, clean_method, scenario
 # =============================================================================
 # Directory Configuration
 # =============================================================================
-data_dir = 'data' # dir storing data
+data_dir = '/kaggle/input/cleanml-datasets-2020/data' # dir storing data
 result_dir = 'result' # dir saving experiment results
 analysis_dir = 'analysis' # dir saving analysis results
 plot_dir = 'plot' # dir saving plots
@@ -12,8 +12,8 @@ plot_dir = 'plot' # dir saving plots
 # =============================================================================
 # Experiment Configuration
 # =============================================================================
-root_seed = 1 # root seed for entire experiments
-n_resplit = 20 # num of resplit for handling split randomness
+root_seed = 42 # root seed for entire experiments
+n_resplit = 1 # num of resplit for handling split randomness
 n_retrain = 5 # num of retrain for handling random search randomness
 test_ratio = 0.3 # train/test ratio
 max_size = 15000 # max data size for training

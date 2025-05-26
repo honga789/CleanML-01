@@ -15,10 +15,10 @@ from xgboost import XGBClassifier
 logistic_reg = {
     "name": "logistic_regression",
     "fn": LogisticRegression,
-    "fixed_params": {"solver":"lbfgs", "max_iter":5000, "multi_class":'auto'},
+    "fixed_params": {"solver": "lbfgs", "max_iter": 5000, "n_jobs": -1},
     "parallelable": True,
     "type": "classification",
-    "hyperparams": "C" ,
+    "hyperparams": "C",
     "hyperparams_type": "real",
     "hyperparams_range": [-5, 5]
 }
@@ -26,7 +26,7 @@ logistic_reg = {
 knn_clf = {
     "name": "knn_classification",
     "fn": KNeighborsClassifier,
-    "fixed_params":{},
+    "fixed_params": {"n_jobs": -1},
     "parallelable": True,
     "type": "classification",
     "hyperparams": "n_neighbors",
@@ -57,7 +57,7 @@ linear_svm = {
 adaboost_clf = {
     "name": "adaboost_classification",
     "fn": AdaBoostClassifier,
-    "fixed_params": {"n_estimators":200},
+    "fixed_params": {"n_estimators": 200},
     "type": "classification",
     "hyperparams": "learning_rate",
     "hyperparams_type": "real",
@@ -67,7 +67,7 @@ adaboost_clf = {
 random_forest_clf = {
     "name": "random_forest_classification",
     "fn": RandomForestClassifier,
-    "fixed_params": {"n_estimators":100},
+    "fixed_params": {"n_estimators": 100, "n_jobs": -1},
     "parallelable": True,
     "type": "classification",
     "hyperparams": "max_depth",
@@ -83,9 +83,9 @@ gaussian_nb = {
 }
 
 xgb_clf = {
-    "name":"XGBoost",
+    "name": "XGBoost",
     "fn": XGBClassifier,
-    "fixed_params": {},
+    "fixed_params": {"n_jobs": -1},
     "type": "classification",
     "hyperparams": "max_depth",
     "hyperparams_type": "int",
