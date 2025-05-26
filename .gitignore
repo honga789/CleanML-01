@@ -1,7 +1,6 @@
-*.csv
+# *.csv
 *.npy
 *.pyc
 .DS_Store
 datasets/*
 */trash/*
-/data/
