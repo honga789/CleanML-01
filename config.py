@@ -4,7 +4,7 @@ from schema import dataset, model, error_type, clean_method, scenario
 # =============================================================================
 # Directory Configuration
 # =============================================================================
-data_dir = 'data' # dir storing data
+data_dir = '/kaggle/working/CleanML-01/data' # dir storing data
 result_dir = 'result' # dir saving experiment results
 analysis_dir = 'analysis' # dir saving analysis results
 plot_dir = 'plot' # dir saving plots
