@@ -86,7 +86,7 @@ def one_split_experiment(dataset, n_retrain=5, seed=1, n_jobs=1, nosave=True, er
 
     ### changes for run without tpu idle
     last_touch_time = time.time()
-    TOUCH_INTERVAL = 10  # 30 phút = 1800 giây
+    TOUCH_INTERVAL = 1800  # 30 phút = 1800 giây
     ###
 
     # run experiments
