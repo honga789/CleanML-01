@@ -17,7 +17,7 @@ import tensorflow as tf
 
 def touch_tpu():
     try:
-        resolver = tf.distribute.cluster_resolver.TPUClusterResolver()
+        resolver = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='')
         tf.config.experimental_connect_to_cluster(resolver)
         tf.tpu.experimental.initialize_tpu_system(resolver)
         strategy = tf.distribute.TPUStrategy(resolver)
