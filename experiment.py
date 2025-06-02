@@ -12,6 +12,26 @@ from clean import clean
 import time
 import logging
 
+### my changes
+import tensorflow as tf
+
+def touch_tpu():
+    try:
+        resolver = tf.distribute.cluster_resolver.TPUClusterResolver()
+        tf.config.experimental_connect_to_cluster(resolver)
+        tf.tpu.experimental.initialize_tpu_system(resolver)
+        strategy = tf.distribute.TPUStrategy(resolver)
+
+        with strategy.scope():
+            a = tf.constant([1.0])
+            b = tf.constant([2.0])
+            c = a + b
+            print(f"[TPU Keepalive] {datetime.datetime.now()} Result: {c.numpy()}")
+    except Exception as e:
+        print(f"[TPU Keepalive] Error: {e}")
+
+###
+
 def one_search_experiment(dataset, error_type, train_file, model, seed, n_jobs=1, hyperparams=None):
     """One experiment on the datase given an error type, a train file, a model and a random search seed
         
@@ -51,6 +71,11 @@ def one_split_experiment(dataset, n_retrain=5, seed=1, n_jobs=1, nosave=True, er
     # load result dict
     result = utils.load_result(dataset['data_dir'])
 
+    ### changes for run without tpu idle
+    last_touch_time = time.time()
+    TOUCH_INTERVAL = 10  # 30 phút = 1800 giây
+    ###
+
     # run experiments
     for error in dataset["error_types"]:
         if error_type is not None and error != error_type:
@@ -71,6 +96,12 @@ def one_split_experiment(dataset, n_retrain=5, seed=1, n_jobs=1, nosave=True, er
                     
                     if not nosave:
                         utils.save_result(dataset['data_dir'], key, res)
+
+                    ### Gọi lại touch_tpu nếu đã hơn 30 phút
+                    if time.time() - last_touch_time > TOUCH_INTERVAL:
+                        touch_tpu()
+                        last_touch_time = time.time()
+                    ###
 
 def experiment(datasets, log=False, n_jobs=1, nosave=False, error_type=None, arg_seeds=None):
     """Run expriments on all datasets for all splits"""
