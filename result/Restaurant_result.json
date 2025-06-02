@@ -1,0 +1,1737 @@
+{
+    "Restaurant/v7270/duplicates/dirty/logistic_regression/753": {
+        "best_params": {
+            "C": 0.0054191155964846815
+        },
+        "train_acc": 0.8091314693634741,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7401443642420877,
+        "dirty_test_f1": 0.801358234295416,
+        "clean_test_acc": 0.7401665231122595,
+        "clean_test_f1": 0.8006168759638687,
+        "AutoER_test_acc": 0.7402933563416738,
+        "AutoER_test_f1": 0.8020171015128261
+    },
+    "Restaurant/v7270/duplicates/dirty/logistic_regression/8587": {
+        "best_params": {
+            "C": 0.005596927568272903
+        },
+        "train_acc": 0.8093099345627603,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8015283379324984,
+        "clean_test_acc": 0.7404536319265002,
+        "clean_test_f1": 0.8007933010136624,
+        "AutoER_test_acc": 0.7405809605982169,
+        "AutoER_test_f1": 0.8021929824561403
+    },
+    "Restaurant/v7270/duplicates/dirty/logistic_regression/1867": {
+        "best_params": {
+            "C": 0.005488838472278756
+        },
+        "train_acc": 0.8091909577632362,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8016125610014853,
+        "clean_test_acc": 0.7404536319265002,
+        "clean_test_f1": 0.8008810572687225,
+        "AutoER_test_acc": 0.7405809605982169,
+        "AutoER_test_f1": 0.8022797018851381
+    },
+    "Restaurant/v7270/duplicates/dirty/logistic_regression/6659": {
+        "best_params": {
+            "C": 0.005097594996577772
+        },
+        "train_acc": 0.8085663295657348,
+        "val_acc": 0.7857227840571088,
+        "dirty_test_acc": 0.7406996113270405,
+        "dirty_test_f1": 0.8017826825127334,
+        "clean_test_acc": 0.7407407407407407,
+        "clean_test_f1": 0.8010575016523463,
+        "AutoER_test_acc": 0.7408685648547598,
+        "AutoER_test_f1": 0.8024556018417014
+    },
+    "Restaurant/v7270/duplicates/dirty/logistic_regression/9156": {
+        "best_params": {
+            "C": 0.0054908929239016364
+        },
+        "train_acc": 0.8091909577632362,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8016125610014853,
+        "clean_test_acc": 0.7404536319265002,
+        "clean_test_f1": 0.8008810572687225,
+        "AutoER_test_acc": 0.7405809605982169,
+        "AutoER_test_f1": 0.8022797018851381
+    },
+    "Restaurant/v7270/duplicates/dirty/knn_classification/753": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7736263736263737,
+        "AutoER_test_acc": 0.7063560540696002,
+        "AutoER_test_f1": 0.7764396759360631
+    },
+    "Restaurant/v7270/duplicates/dirty/knn_classification/8587": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7736263736263737,
+        "AutoER_test_acc": 0.7063560540696002,
+        "AutoER_test_f1": 0.7764396759360631
+    },
+    "Restaurant/v7270/duplicates/dirty/knn_classification/1867": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7736263736263737,
+        "AutoER_test_acc": 0.7063560540696002,
+        "AutoER_test_f1": 0.7764396759360631
+    },
+    "Restaurant/v7270/duplicates/dirty/knn_classification/6659": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7736263736263737,
+        "AutoER_test_acc": 0.7063560540696002,
+        "AutoER_test_f1": 0.7764396759360631
+    },
+    "Restaurant/v7270/duplicates/dirty/knn_classification/9156": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7736263736263737,
+        "AutoER_test_acc": 0.7063560540696002,
+        "AutoER_test_f1": 0.7764396759360631
+    },
+    "Restaurant/v7270/duplicates/dirty/decision_tree_classification/753": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8958358120166569,
+        "val_acc": 0.7126710291493159,
+        "dirty_test_acc": 0.7040533037201555,
+        "dirty_test_f1": 0.7690641247833622,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879,
+        "AutoER_test_acc": 0.7043428242737992,
+        "AutoER_test_f1": 0.7694033198743832
+    },
+    "Restaurant/v7270/duplicates/dirty/decision_tree_classification/8587": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8955383700178465,
+        "val_acc": 0.7125520523497918,
+        "dirty_test_acc": 0.7104386451971128,
+        "dirty_test_f1": 0.7733101499673984,
+        "clean_test_acc": 0.7077232271030721,
+        "clean_test_f1": 0.7700993676603433,
+        "AutoER_test_acc": 0.7106701179177451,
+        "AutoER_test_f1": 0.7736273627362736
+    },
+    "Restaurant/v7270/duplicates/dirty/decision_tree_classification/1867": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8958953004164188,
+        "val_acc": 0.7118381915526472,
+        "dirty_test_acc": 0.7054414214325375,
+        "dirty_test_f1": 0.7694981533782316,
+        "clean_test_acc": 0.7025552684467413,
+        "clean_test_f1": 0.7661399548532731,
+        "AutoER_test_acc": 0.7049180327868853,
+        "AutoER_test_f1": 0.7691269126912691
+    },
+    "Restaurant/v7270/duplicates/dirty/decision_tree_classification/6659": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8955086258179655,
+        "val_acc": 0.7127900059488399,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7708649468892261,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7680180180180181,
+        "AutoER_test_acc": 0.7075064710957722,
+        "AutoER_test_f1": 0.7717171717171717
+    },
+    "Restaurant/v7270/duplicates/dirty/decision_tree_classification/9156": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "train_acc": 0.8084473527662105,
+        "val_acc": 0.711481261154075,
+        "dirty_test_acc": 0.715435868961688,
+        "dirty_test_f1": 0.789051245112163,
+        "clean_test_acc": 0.7123169681309216,
+        "clean_test_f1": 0.7860802732707088,
+        "AutoER_test_acc": 0.7155593902789761,
+        "AutoER_test_f1": 0.7893503727369542
+    },
+    "Restaurant/v7270/duplicates/dirty/adaboost_classification/753": {
+        "best_params": {
+            "learning_rate": 1.8309386197053203
+        },
+        "train_acc": 0.7608863771564545,
+        "val_acc": 0.7369422962522308,
+        "dirty_test_acc": 0.7220988339811216,
+        "dirty_test_f1": 0.7847774672113524,
+        "clean_test_acc": 0.7194946884869365,
+        "clean_test_f1": 0.7821627647714604,
+        "AutoER_test_acc": 0.7227494966925511,
+        "AutoER_test_f1": 0.7858729453576189
+    },
+    "Restaurant/v7270/duplicates/dirty/adaboost_classification/8587": {
+        "best_params": {
+            "learning_rate": 1.5285079423325199
+        },
+        "train_acc": 0.7474717430101131,
+        "val_acc": 0.7376561570493754,
+        "dirty_test_acc": 0.726540810660744,
+        "dirty_test_f1": 0.7873947766026332,
+        "clean_test_acc": 0.7243755383290267,
+        "clean_test_f1": 0.7851387645478961,
+        "AutoER_test_acc": 0.726200747771067,
+        "AutoER_test_f1": 0.7872150201162271
+    },
+    "Restaurant/v7270/duplicates/dirty/adaboost_classification/1867": {
+        "best_params": {
+            "learning_rate": 1.7864124402472106
+        },
+        "train_acc": 0.7590124925639501,
+        "val_acc": 0.7372992266508032,
+        "dirty_test_acc": 0.7318156579677957,
+        "dirty_test_f1": 0.7901824500434405,
+        "clean_test_acc": 0.729830605799598,
+        "clean_test_f1": 0.7879197656073924,
+        "AutoER_test_acc": 0.732815645671556,
+        "AutoER_test_f1": 0.7915638321741082
+    },
+    "Restaurant/v7270/duplicates/dirty/adaboost_classification/6659": {
+        "best_params": {
+            "learning_rate": 1.5437242259735076
+        },
+        "train_acc": 0.7485425342058298,
+        "val_acc": 0.7376561570493753,
+        "dirty_test_acc": 0.7259855635757912,
+        "dirty_test_f1": 0.7879699248120301,
+        "clean_test_acc": 0.7243755383290267,
+        "clean_test_f1": 0.786286731967943,
+        "AutoER_test_acc": 0.726200747771067,
+        "AutoER_test_f1": 0.7882562277580071
+    },
+    "Restaurant/v7270/duplicates/dirty/adaboost_classification/9156": {
+        "best_params": {
+            "learning_rate": 1.7589239564974144
+        },
+        "train_acc": 0.7581201665675193,
+        "val_acc": 0.7383700178465199,
+        "dirty_test_acc": 0.7301499167129373,
+        "dirty_test_f1": 0.7923964117898334,
+        "clean_test_acc": 0.7283950617283951,
+        "clean_test_f1": 0.7906153165117309,
+        "AutoER_test_acc": 0.7299396031061259,
+        "AutoER_test_f1": 0.7925778661365143
+    },
+    "Restaurant/v7270/duplicates/dirty/random_forest_classification/753": {
+        "best_params": {
+            "max_depth": 118.0
+        },
+        "train_acc": 0.9984830458060678,
+        "val_acc": 0.762760261748959,
+        "dirty_test_acc": 0.7448639644641866,
+        "dirty_test_f1": 0.8035905107929044,
+        "clean_test_acc": 0.7430376112546655,
+        "clean_test_f1": 0.8015080949212686,
+        "AutoER_test_acc": 0.7448950244463618,
+        "AutoER_test_f1": 0.8042374751710439
+    },
+    "Restaurant/v7270/duplicates/dirty/random_forest_classification/8587": {
+        "best_params": {
+            "max_depth": 132.0
+        },
+        "train_acc": 0.9986912552052349,
+        "val_acc": 0.7621653777513385,
+        "dirty_test_acc": 0.7445863409217102,
+        "dirty_test_f1": 0.8040885860306644,
+        "clean_test_acc": 0.742750502440425,
+        "clean_test_f1": 0.8020326999558108,
+        "AutoER_test_acc": 0.7431693989071039,
+        "AutoER_test_f1": 0.8034338542813119
+    },
+    "Restaurant/v7270/duplicates/dirty/random_forest_classification/1867": {
+        "best_params": {
+            "max_depth": 61.0
+        },
+        "train_acc": 0.9859309934562759,
+        "val_acc": 0.7626412849494348,
+        "dirty_test_acc": 0.7481954469739034,
+        "dirty_test_f1": 0.807879686507096,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8057996485061512,
+        "AutoER_test_acc": 0.7469082542421628,
+        "AutoER_test_f1": 0.8073555166374781
+    },
+    "Restaurant/v7270/duplicates/dirty/random_forest_classification/6659": {
+        "best_params": {
+            "max_depth": 57.0
+        },
+        "train_acc": 0.9828673408685307,
+        "val_acc": 0.7603807257584771,
+        "dirty_test_acc": 0.7473625763464742,
+        "dirty_test_f1": 0.8086627417998318,
+        "clean_test_acc": 0.7453344817685903,
+        "clean_test_f1": 0.8064586515382937,
+        "AutoER_test_acc": 0.7463330457290768,
+        "AutoER_test_f1": 0.8083441981747066
+    },
+    "Restaurant/v7270/duplicates/dirty/random_forest_classification/9156": {
+        "best_params": {
+            "max_depth": 75.0
+        },
+        "train_acc": 0.9924152290303392,
+        "val_acc": 0.7621653777513385,
+        "dirty_test_acc": 0.7495835646862854,
+        "dirty_test_f1": 0.8092216582064298,
+        "clean_test_acc": 0.7482055699109963,
+        "clean_test_f1": 0.8074643249176728,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8087431693989071
+    },
+    "Restaurant/v7270/duplicates/dirty/guassian_naive_bayes/753": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6637955785242607,
+        "clean_test_f1": 0.7785970882964643,
+        "AutoER_test_acc": 0.6649410411274087,
+        "AutoER_test_f1": 0.7802301452556122
+    },
+    "Restaurant/v7270/duplicates/dirty/guassian_naive_bayes/8587": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6637955785242607,
+        "clean_test_f1": 0.7785970882964643,
+        "AutoER_test_acc": 0.6649410411274087,
+        "AutoER_test_f1": 0.7802301452556122
+    },
+    "Restaurant/v7270/duplicates/dirty/guassian_naive_bayes/1867": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6637955785242607,
+        "clean_test_f1": 0.7785970882964643,
+        "AutoER_test_acc": 0.6649410411274087,
+        "AutoER_test_f1": 0.7802301452556122
+    },
+    "Restaurant/v7270/duplicates/dirty/guassian_naive_bayes/6659": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6637955785242607,
+        "clean_test_f1": 0.7785970882964643,
+        "AutoER_test_acc": 0.6649410411274087,
+        "AutoER_test_f1": 0.7802301452556122
+    },
+    "Restaurant/v7270/duplicates/dirty/guassian_naive_bayes/9156": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6637955785242607,
+        "clean_test_f1": 0.7785970882964643,
+        "AutoER_test_acc": 0.6649410411274087,
+        "AutoER_test_f1": 0.7802301452556122
+    },
+    "Restaurant/v7270/duplicates/dirty/XGBoost/753": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8028545941123997,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8056850988230069
+    },
+    "Restaurant/v7270/duplicates/dirty/XGBoost/8587": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8028545941123997,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8056850988230069
+    },
+    "Restaurant/v7270/duplicates/dirty/XGBoost/1867": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8028545941123997,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8056850988230069
+    },
+    "Restaurant/v7270/duplicates/dirty/XGBoost/6659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8028545941123997,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8056850988230069
+    },
+    "Restaurant/v7270/duplicates/dirty/XGBoost/9156": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8028545941123997,
+        "AutoER_test_acc": 0.7483462755248778,
+        "AutoER_test_f1": 0.8056850988230069
+    },
+    "Restaurant/v7270/duplicates/clean/logistic_regression/753": {
+        "best_params": {
+            "C": 0.07250080546577489
+        },
+        "train_acc": 0.814695096057703,
+        "val_acc": 0.785122601394915,
+        "dirty_test_acc": 0.7329261521377013,
+        "dirty_test_f1": 0.7936507936507936,
+        "clean_test_acc": 0.732701693942004,
+        "clean_test_f1": 0.7926041434617955
+    },
+    "Restaurant/v7270/duplicates/clean/logistic_regression/8587": {
+        "best_params": {
+            "C": 0.8317393906222668
+        },
+        "train_acc": 0.8153084731173383,
+        "val_acc": 0.784218709077958,
+        "dirty_test_acc": 0.7323709050527485,
+        "dirty_test_f1": 0.7931330472103004,
+        "clean_test_acc": 0.7321274763135228,
+        "clean_test_f1": 0.7920659683530198
+    },
+    "Restaurant/v7270/duplicates/clean/logistic_regression/1867": {
+        "best_params": {
+            "C": 0.07800541658547755
+        },
+        "train_acc": 0.8147273801577836,
+        "val_acc": 0.7852517169533397,
+        "dirty_test_acc": 0.7329261521377013,
+        "dirty_test_f1": 0.7936507936507936,
+        "clean_test_acc": 0.732701693942004,
+        "clean_test_f1": 0.7926041434617955
+    },
+    "Restaurant/v7270/duplicates/clean/logistic_regression/6659": {
+        "best_params": {
+            "C": 0.07295573225020699
+        },
+        "train_acc": 0.814695096057703,
+        "val_acc": 0.785122601394915,
+        "dirty_test_acc": 0.7329261521377013,
+        "dirty_test_f1": 0.7936507936507936,
+        "clean_test_acc": 0.732701693942004,
+        "clean_test_f1": 0.7926041434617955
+    },
+    "Restaurant/v7270/duplicates/clean/logistic_regression/9156": {
+        "best_params": {
+            "C": 0.07234991962400716
+        },
+        "train_acc": 0.8146628119576222,
+        "val_acc": 0.785122601394915,
+        "dirty_test_acc": 0.7329261521377013,
+        "dirty_test_f1": 0.7936507936507936,
+        "clean_test_acc": 0.732701693942004,
+        "clean_test_f1": 0.7926041434617955
+    },
+    "Restaurant/v7270/duplicates/clean/knn_classification/753": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7854790640528841,
+        "val_acc": 0.7405724790354034,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7671946192232588,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879
+    },
+    "Restaurant/v7270/duplicates/clean/knn_classification/8587": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7854790640528841,
+        "val_acc": 0.7405724790354034,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7671946192232588,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879
+    },
+    "Restaurant/v7270/duplicates/clean/knn_classification/1867": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7854790640528841,
+        "val_acc": 0.7405724790354034,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7671946192232588,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879
+    },
+    "Restaurant/v7270/duplicates/clean/knn_classification/6659": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7854790640528841,
+        "val_acc": 0.7405724790354034,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7671946192232588,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879
+    },
+    "Restaurant/v7270/duplicates/clean/knn_classification/9156": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7854790640528841,
+        "val_acc": 0.7405724790354034,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7671946192232588,
+        "clean_test_acc": 0.7016939420040196,
+        "clean_test_f1": 0.7661489984244879
+    },
+    "Restaurant/v7270/duplicates/clean/decision_tree_classification/753": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "train_acc": 0.8189564305331721,
+        "val_acc": 0.70712812967606,
+        "dirty_test_acc": 0.715435868961688,
+        "dirty_test_f1": 0.7919626547594886,
+        "clean_test_acc": 0.7126040769451623,
+        "clean_test_f1": 0.789484752891693
+    },
+    "Restaurant/v7270/duplicates/clean/decision_tree_classification/8587": {
+        "best_params": {
+            "max_depth": 13.0
+        },
+        "train_acc": 0.8325477344596296,
+        "val_acc": 0.7075148090874667,
+        "dirty_test_acc": 0.7068295391449195,
+        "dirty_test_f1": 0.7836065573770492,
+        "clean_test_acc": 0.7039908125179443,
+        "clean_test_f1": 0.78105754937354
+    },
+    "Restaurant/v7270/duplicates/clean/decision_tree_classification/1867": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "train_acc": 0.8190855669334951,
+        "val_acc": 0.7079033234745097,
+        "dirty_test_acc": 0.7137701277068296,
+        "dirty_test_f1": 0.7912532901397044,
+        "clean_test_acc": 0.7108814240597187,
+        "clean_test_f1": 0.7886673662119622
+    },
+    "Restaurant/v7270/duplicates/clean/decision_tree_classification/6659": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "train_acc": 0.8184722628205028,
+        "val_acc": 0.7063532695095445,
+        "dirty_test_acc": 0.7134925041643532,
+        "dirty_test_f1": 0.7907542579075426,
+        "clean_test_acc": 0.7108814240597187,
+        "clean_test_f1": 0.7883119613201598
+    },
+    "Restaurant/v7270/duplicates/clean/decision_tree_classification/9156": {
+        "best_params": {
+            "max_depth": 17.0
+        },
+        "train_acc": 0.8799070503451679,
+        "val_acc": 0.7067406995928022,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7635875643032879,
+        "clean_test_acc": 0.7042779213321849,
+        "clean_test_f1": 0.7609099350046425
+    },
+    "Restaurant/v7270/duplicates/clean/adaboost_classification/753": {
+        "best_params": {
+            "learning_rate": 1.8309386197053203
+        },
+        "train_acc": 0.7632359860380125,
+        "val_acc": 0.7388931426960463,
+        "dirty_test_acc": 0.7315380344253193,
+        "dirty_test_f1": 0.7897368993259404,
+        "clean_test_acc": 0.7304048234280792,
+        "clean_test_f1": 0.7882750845546787
+    },
+    "Restaurant/v7270/duplicates/clean/adaboost_classification/8587": {
+        "best_params": {
+            "learning_rate": 1.5285079423325199
+        },
+        "train_acc": 0.7456740400091496,
+        "val_acc": 0.7341164508902135,
+        "dirty_test_acc": 0.72376457523598,
+        "dirty_test_f1": 0.7816545973228001,
+        "clean_test_acc": 0.7223657766293425,
+        "clean_test_f1": 0.7797768162149852
+    },
+    "Restaurant/v7270/duplicates/clean/adaboost_classification/1867": {
+        "best_params": {
+            "learning_rate": 1.4940904045703944
+        },
+        "train_acc": 0.7438662294036457,
+        "val_acc": 0.7347606107466181,
+        "dirty_test_acc": 0.7293170460855081,
+        "dirty_test_f1": 0.791889007470651,
+        "clean_test_acc": 0.7275337352856732,
+        "clean_test_f1": 0.7898117386489479
+    },
+    "Restaurant/v7270/duplicates/clean/adaboost_classification/6659": {
+        "best_params": {
+            "learning_rate": 1.3974766677233859
+        },
+        "train_acc": 0.7437693979453016,
+        "val_acc": 0.7351487915017273,
+        "dirty_test_acc": 0.7262631871182677,
+        "dirty_test_f1": 0.7892261650277896,
+        "clean_test_acc": 0.7249497559575079,
+        "clean_test_f1": 0.7875831485587583
+    },
+    "Restaurant/v7270/duplicates/clean/adaboost_classification/9156": {
+        "best_params": {
+            "learning_rate": 1.7589239564974144
+        },
+        "train_acc": 0.7577156862898347,
+        "val_acc": 0.7381184493454975,
+        "dirty_test_acc": 0.7290394225430317,
+        "dirty_test_f1": 0.7916310845431256,
+        "clean_test_acc": 0.7275337352856732,
+        "clean_test_f1": 0.7899048040735
+    },
+    "Restaurant/v7270/duplicates/clean/random_forest_classification/753": {
+        "best_params": {
+            "max_depth": 88.0
+        },
+        "train_acc": 0.9965457055008542,
+        "val_acc": 0.7598122819923832,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8052338052338053,
+        "clean_test_acc": 0.7470571346540339,
+        "clean_test_f1": 0.8038298819861946
+    },
+    "Restaurant/v7270/duplicates/clean/random_forest_classification/8587": {
+        "best_params": {
+            "max_depth": 74.0
+        },
+        "train_acc": 0.9925748706108918,
+        "val_acc": 0.7569719899309882,
+        "dirty_test_acc": 0.7498611882287618,
+        "dirty_test_f1": 0.8079300788744405,
+        "clean_test_acc": 0.749066896353718,
+        "clean_test_f1": 0.8066371681415929
+    },
+    "Restaurant/v7270/duplicates/clean/random_forest_classification/1867": {
+        "best_params": {
+            "max_depth": 87.0
+        },
+        "train_acc": 0.9963197272212383,
+        "val_acc": 0.7581344469967288,
+        "dirty_test_acc": 0.7504164353137146,
+        "dirty_test_f1": 0.807535859558981,
+        "clean_test_acc": 0.7482055699109963,
+        "clean_test_f1": 0.8053274139844617
+    },
+    "Restaurant/v7270/duplicates/clean/random_forest_classification/6659": {
+        "best_params": {
+            "max_depth": 108.0
+        },
+        "train_acc": 0.9983212789005481,
+        "val_acc": 0.756714342670023,
+        "dirty_test_acc": 0.7495835646862854,
+        "dirty_test_f1": 0.805770887166236,
+        "clean_test_acc": 0.7484926787252368,
+        "clean_test_f1": 0.8044642857142857
+    },
+    "Restaurant/v7270/duplicates/clean/random_forest_classification/9156": {
+        "best_params": {
+            "max_depth": 77.0
+        },
+        "train_acc": 0.993704788061344,
+        "val_acc": 0.7576179847630296,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8063139931740614,
+        "clean_test_acc": 0.746195808211312,
+        "clean_test_f1": 0.8043382027445772
+    },
+    "Restaurant/v7270/duplicates/clean/guassian_naive_bayes/753": {
+        "best_params": {},
+        "train_acc": 0.7183626033057852,
+        "val_acc": 0.7115188093343543,
+        "dirty_test_acc": 0.6674069961132704,
+        "dirty_test_f1": 0.7809070958302853,
+        "clean_test_acc": 0.6652311225954637,
+        "clean_test_f1": 0.7787476280834915
+    },
+    "Restaurant/v7270/duplicates/clean/guassian_naive_bayes/8587": {
+        "best_params": {},
+        "train_acc": 0.7183626033057852,
+        "val_acc": 0.7115188093343543,
+        "dirty_test_acc": 0.6674069961132704,
+        "dirty_test_f1": 0.7809070958302853,
+        "clean_test_acc": 0.6652311225954637,
+        "clean_test_f1": 0.7787476280834915
+    },
+    "Restaurant/v7270/duplicates/clean/guassian_naive_bayes/1867": {
+        "best_params": {},
+        "train_acc": 0.7183626033057852,
+        "val_acc": 0.7115188093343543,
+        "dirty_test_acc": 0.6674069961132704,
+        "dirty_test_f1": 0.7809070958302853,
+        "clean_test_acc": 0.6652311225954637,
+        "clean_test_f1": 0.7787476280834915
+    },
+    "Restaurant/v7270/duplicates/clean/guassian_naive_bayes/6659": {
+        "best_params": {},
+        "train_acc": 0.7183626033057852,
+        "val_acc": 0.7115188093343543,
+        "dirty_test_acc": 0.6674069961132704,
+        "dirty_test_f1": 0.7809070958302853,
+        "clean_test_acc": 0.6652311225954637,
+        "clean_test_f1": 0.7787476280834915
+    },
+    "Restaurant/v7270/duplicates/clean/guassian_naive_bayes/9156": {
+        "best_params": {},
+        "train_acc": 0.7183626033057852,
+        "val_acc": 0.7115188093343543,
+        "dirty_test_acc": 0.6674069961132704,
+        "dirty_test_f1": 0.7809070958302853,
+        "clean_test_acc": 0.6652311225954637,
+        "clean_test_f1": 0.7787476280834915
+    },
+    "Restaurant/v7270/duplicates/clean/XGBoost/753": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 0.8964036158608929,
+        "val_acc": 0.7533564206631602,
+        "dirty_test_acc": 0.7559689061632426,
+        "dirty_test_f1": 0.8092033861515086,
+        "clean_test_acc": 0.7556703990812518,
+        "clean_test_f1": 0.8082901554404145
+    },
+    "Restaurant/v7270/duplicates/clean/XGBoost/8587": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 0.8964036158608929,
+        "val_acc": 0.7533564206631602,
+        "dirty_test_acc": 0.7559689061632426,
+        "dirty_test_f1": 0.8092033861515086,
+        "clean_test_acc": 0.7556703990812518,
+        "clean_test_f1": 0.8082901554404145
+    },
+    "Restaurant/v7270/duplicates/clean/XGBoost/1867": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 0.8964036158608929,
+        "val_acc": 0.7533564206631602,
+        "dirty_test_acc": 0.7559689061632426,
+        "dirty_test_f1": 0.8092033861515086,
+        "clean_test_acc": 0.7556703990812518,
+        "clean_test_f1": 0.8082901554404145
+    },
+    "Restaurant/v7270/duplicates/clean/XGBoost/6659": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 0.8964036158608929,
+        "val_acc": 0.7533564206631602,
+        "dirty_test_acc": 0.7559689061632426,
+        "dirty_test_f1": 0.8092033861515086,
+        "clean_test_acc": 0.7556703990812518,
+        "clean_test_f1": 0.8082901554404145
+    },
+    "Restaurant/v7270/duplicates/clean/XGBoost/9156": {
+        "best_params": {
+            "max_depth": 8.0
+        },
+        "train_acc": 0.8964036158608929,
+        "val_acc": 0.7533564206631602,
+        "dirty_test_acc": 0.7559689061632426,
+        "dirty_test_f1": 0.8092033861515086,
+        "clean_test_acc": 0.7556703990812518,
+        "clean_test_f1": 0.8082901554404145
+    },
+    "Restaurant/v7270/duplicates/AutoER/logistic_regression/753": {
+        "best_params": {
+            "C": 0.03996409056792694
+        },
+        "train_acc": 0.8116174668207444,
+        "val_acc": 0.7816429358652545,
+        "dirty_test_acc": 0.7390338700721821,
+        "dirty_test_f1": 0.7999148573861218,
+        "AutoER_test_acc": 0.7402933563416738,
+        "AutoER_test_f1": 0.8014075214427094
+    },
+    "Restaurant/v7270/duplicates/AutoER/logistic_regression/8587": {
+        "best_params": {
+            "C": 0.2630667665953295
+        },
+        "train_acc": 0.8119326110749757,
+        "val_acc": 0.7820214844603577,
+        "dirty_test_acc": 0.7379233759022765,
+        "dirty_test_f1": 0.7987206823027718,
+        "AutoER_test_acc": 0.7391429393155019,
+        "AutoER_test_f1": 0.8001762502753911
+    },
+    "Restaurant/v7270/duplicates/AutoER/logistic_regression/1867": {
+        "best_params": {
+            "C": 0.2716639694708066
+        },
+        "train_acc": 0.8120901906526626,
+        "val_acc": 0.7818953810555658,
+        "dirty_test_acc": 0.7379233759022765,
+        "dirty_test_f1": 0.7987206823027718,
+        "AutoER_test_acc": 0.7391429393155019,
+        "AutoER_test_f1": 0.8001762502753911
+    },
+    "Restaurant/v7270/duplicates/AutoER/logistic_regression/6659": {
+        "best_params": {
+            "C": 0.2504156215074672
+        },
+        "train_acc": 0.8119010752912491,
+        "val_acc": 0.7818954605158083,
+        "dirty_test_acc": 0.7387562465297057,
+        "dirty_test_f1": 0.799403112342784,
+        "AutoER_test_acc": 0.7400057520851309,
+        "AutoER_test_f1": 0.8008810572687225
+    },
+    "Restaurant/v7270/duplicates/AutoER/logistic_regression/9156": {
+        "best_params": {
+            "C": 0.02144743443927543
+        },
+        "train_acc": 0.8110816813554674,
+        "val_acc": 0.7818955399760507,
+        "dirty_test_acc": 0.7393114936146585,
+        "dirty_test_f1": 0.8005098789037604,
+        "AutoER_test_acc": 0.7405809605982169,
+        "AutoER_test_f1": 0.8020193151887621
+    },
+    "Restaurant/v7270/duplicates/AutoER/knn_classification/753": {
+        "best_params": {
+            "n_neighbors": 10.0
+        },
+        "train_acc": 0.7898701390301393,
+        "val_acc": 0.7395336160528759,
+        "dirty_test_acc": 0.7018323153803443,
+        "dirty_test_f1": 0.7697255574614065,
+        "AutoER_test_acc": 0.7020419902214553,
+        "AutoER_test_f1": 0.770593445527015
+    },
+    "Restaurant/v7270/duplicates/AutoER/knn_classification/8587": {
+        "best_params": {
+            "n_neighbors": 10.0
+        },
+        "train_acc": 0.7898701390301393,
+        "val_acc": 0.7395336160528759,
+        "dirty_test_acc": 0.7018323153803443,
+        "dirty_test_f1": 0.7697255574614065,
+        "AutoER_test_acc": 0.7020419902214553,
+        "AutoER_test_f1": 0.770593445527015
+    },
+    "Restaurant/v7270/duplicates/AutoER/knn_classification/1867": {
+        "best_params": {
+            "n_neighbors": 10.0
+        },
+        "train_acc": 0.7898701390301393,
+        "val_acc": 0.7395336160528759,
+        "dirty_test_acc": 0.7018323153803443,
+        "dirty_test_f1": 0.7697255574614065,
+        "AutoER_test_acc": 0.7020419902214553,
+        "AutoER_test_f1": 0.770593445527015
+    },
+    "Restaurant/v7270/duplicates/AutoER/knn_classification/6659": {
+        "best_params": {
+            "n_neighbors": 10.0
+        },
+        "train_acc": 0.7898701390301393,
+        "val_acc": 0.7395336160528759,
+        "dirty_test_acc": 0.7018323153803443,
+        "dirty_test_f1": 0.7697255574614065,
+        "AutoER_test_acc": 0.7020419902214553,
+        "AutoER_test_f1": 0.770593445527015
+    },
+    "Restaurant/v7270/duplicates/AutoER/knn_classification/9156": {
+        "best_params": {
+            "n_neighbors": 10.0
+        },
+        "train_acc": 0.7898701390301393,
+        "val_acc": 0.7395336160528759,
+        "dirty_test_acc": 0.7018323153803443,
+        "dirty_test_f1": 0.7697255574614065,
+        "AutoER_test_acc": 0.7020419902214553,
+        "AutoER_test_f1": 0.770593445527015
+    },
+    "Restaurant/v7270/duplicates/AutoER/decision_tree_classification/753": {
+        "best_params": {
+            "max_depth": 17.0
+        },
+        "train_acc": 0.8737708507335211,
+        "val_acc": 0.7087755891778328,
+        "dirty_test_acc": 0.7068295391449195,
+        "dirty_test_f1": 0.7745516652433817,
+        "AutoER_test_acc": 0.7057808455565142,
+        "AutoER_test_f1": 0.7739226519337017
+    },
+    "Restaurant/v7270/duplicates/AutoER/decision_tree_classification/8587": {
+        "best_params": {
+            "max_depth": 43.0
+        },
+        "train_acc": 0.9846507755920285,
+        "val_acc": 0.7078931037250167,
+        "dirty_test_acc": 0.6990560799555803,
+        "dirty_test_f1": 0.7616534740545294,
+        "AutoER_test_acc": 0.6980155306298533,
+        "AutoER_test_f1": 0.7609289617486339
+    },
+    "Restaurant/v7270/duplicates/AutoER/decision_tree_classification/1867": {
+        "best_params": {
+            "max_depth": 51.0
+        },
+        "train_acc": 0.9888426307767691,
+        "val_acc": 0.7072623483203297,
+        "dirty_test_acc": 0.6982232093281511,
+        "dirty_test_f1": 0.7598851336425889,
+        "AutoER_test_acc": 0.6965775093471384,
+        "AutoER_test_f1": 0.7586364676275452
+    },
+    "Restaurant/v7270/duplicates/AutoER/decision_tree_classification/6659": {
+        "best_params": {
+            "max_depth": 59.0
+        },
+        "train_acc": 0.9901348677536056,
+        "val_acc": 0.7070112539541403,
+        "dirty_test_acc": 0.6948917268184343,
+        "dirty_test_f1": 0.7578761841815378,
+        "AutoER_test_acc": 0.6937014667817084,
+        "AutoER_test_f1": 0.7573479152426521
+    },
+    "Restaurant/v7270/duplicates/AutoER/decision_tree_classification/9156": {
+        "best_params": {
+            "max_depth": 12.0
+        },
+        "train_acc": 0.8088439917477475,
+        "val_acc": 0.7089020104235946,
+        "dirty_test_acc": 0.71682398667407,
+        "dirty_test_f1": 0.7903822441430333,
+        "AutoER_test_acc": 0.7167098073051481,
+        "AutoER_test_f1": 0.7902916755375772
+    },
+    "Restaurant/v7270/duplicates/AutoER/adaboost_classification/753": {
+        "best_params": {
+            "learning_rate": 1.6661541439318415
+        },
+        "train_acc": 0.7510085614511923,
+        "val_acc": 0.7354997373838986,
+        "dirty_test_acc": 0.7218212104386452,
+        "dirty_test_f1": 0.7843306069737409,
+        "AutoER_test_acc": 0.722461892436008,
+        "AutoER_test_f1": 0.7850300735130319
+    },
+    "Restaurant/v7270/duplicates/AutoER/adaboost_classification/8587": {
+        "best_params": {
+            "learning_rate": 1.7786274238051138
+        },
+        "train_acc": 0.7598021277340802,
+        "val_acc": 0.7347453418419361,
+        "dirty_test_acc": 0.7301499167129373,
+        "dirty_test_f1": 0.7957124842370744,
+        "AutoER_test_acc": 0.730514811619212,
+        "AutoER_test_f1": 0.7962600565340291
+    },
+    "Restaurant/v7270/duplicates/AutoER/adaboost_classification/1867": {
+        "best_params": {
+            "learning_rate": 1.7864124402472106
+        },
+        "train_acc": 0.7599597222129091,
+        "val_acc": 0.738148385645984,
+        "dirty_test_acc": 0.7315380344253193,
+        "dirty_test_f1": 0.7941239088780072,
+        "AutoER_test_acc": 0.73224043715847,
+        "AutoER_test_f1": 0.7949790794979079
+    },
+    "Restaurant/v7270/duplicates/AutoER/adaboost_classification/6659": {
+        "best_params": {
+            "learning_rate": 1.324352888598325
+        },
+        "train_acc": 0.7438853436588314,
+        "val_acc": 0.7347439910178142,
+        "dirty_test_acc": 0.7282065519156025,
+        "dirty_test_f1": 0.7945435466946484,
+        "AutoER_test_acc": 0.728501581823411,
+        "AutoER_test_f1": 0.7948717948717948
+    },
+    "Restaurant/v7270/duplicates/AutoER/adaboost_classification/9156": {
+        "best_params": {
+            "learning_rate": 1.8735851565698534
+        },
+        "train_acc": 0.7650339733622217,
+        "val_acc": 0.7351209504080681,
+        "dirty_test_acc": 0.7295946696279845,
+        "dirty_test_f1": 0.7886284722222222,
+        "AutoER_test_acc": 0.730802415875755,
+        "AutoER_test_f1": 0.7897574123989218
+    },
+    "Restaurant/v7270/duplicates/AutoER/random_forest_classification/753": {
+        "best_params": {
+            "max_depth": 96.0
+        },
+        "train_acc": 0.997415511145185,
+        "val_acc": 0.7559230856637036,
+        "dirty_test_acc": 0.7462520821765686,
+        "dirty_test_f1": 0.8062738448495125,
+        "AutoER_test_acc": 0.7463330457290768,
+        "AutoER_test_f1": 0.8066637439719422
+    },
+    "Restaurant/v7270/duplicates/AutoER/random_forest_classification/8587": {
+        "best_params": {
+            "max_depth": 55.0
+        },
+        "train_acc": 0.9842409991513799,
+        "val_acc": 0.7560487917672832,
+        "dirty_test_acc": 0.7476401998889506,
+        "dirty_test_f1": 0.8093940029356259,
+        "AutoER_test_acc": 0.7477710670117917,
+        "AutoER_test_f1": 0.8098026458468879
+    },
+    "Restaurant/v7270/duplicates/AutoER/random_forest_classification/1867": {
+        "best_params": {
+            "max_depth": 70.0
+        },
+        "train_acc": 0.9919629001298139,
+        "val_acc": 0.7575625888464835,
+        "dirty_test_acc": 0.750694058856191,
+        "dirty_test_f1": 0.8103885135135135,
+        "AutoER_test_acc": 0.7503595053206787,
+        "AutoER_test_f1": 0.8105630728939328
+    },
+    "Restaurant/v7270/duplicates/AutoER/random_forest_classification/6659": {
+        "best_params": {
+            "max_depth": 108.0
+        },
+        "train_acc": 0.9981404268730177,
+        "val_acc": 0.7568057300370047,
+        "dirty_test_acc": 0.743753470294281,
+        "dirty_test_f1": 0.8039923550647696,
+        "AutoER_test_acc": 0.7440322116767328,
+        "AutoER_test_f1": 0.804481546572935
+    },
+    "Restaurant/v7270/duplicates/AutoER/random_forest_classification/9156": {
+        "best_params": {
+            "max_depth": 150.0
+        },
+        "train_acc": 0.9985816794928247,
+        "val_acc": 0.7574356113790246,
+        "dirty_test_acc": 0.7484730705163798,
+        "dirty_test_f1": 0.8065755764304013,
+        "AutoER_test_acc": 0.7486338797814208,
+        "AutoER_test_f1": 0.8070640176600441
+    },
+    "Restaurant/v7270/duplicates/AutoER/guassian_naive_bayes/753": {
+        "best_params": {},
+        "train_acc": 0.7251638930912758,
+        "val_acc": 0.7160876001497031,
+        "dirty_test_acc": 0.669905607995558,
+        "dirty_test_f1": 0.7827516901151106,
+        "AutoER_test_acc": 0.6698303134886396,
+        "AutoER_test_f1": 0.7829046898638427
+    },
+    "Restaurant/v7270/duplicates/AutoER/guassian_naive_bayes/8587": {
+        "best_params": {},
+        "train_acc": 0.7251638930912758,
+        "val_acc": 0.7160876001497031,
+        "dirty_test_acc": 0.669905607995558,
+        "dirty_test_f1": 0.7827516901151106,
+        "AutoER_test_acc": 0.6698303134886396,
+        "AutoER_test_f1": 0.7829046898638427
+    },
+    "Restaurant/v7270/duplicates/AutoER/guassian_naive_bayes/1867": {
+        "best_params": {},
+        "train_acc": 0.7251638930912758,
+        "val_acc": 0.7160876001497031,
+        "dirty_test_acc": 0.669905607995558,
+        "dirty_test_f1": 0.7827516901151106,
+        "AutoER_test_acc": 0.6698303134886396,
+        "AutoER_test_f1": 0.7829046898638427
+    },
+    "Restaurant/v7270/duplicates/AutoER/guassian_naive_bayes/6659": {
+        "best_params": {},
+        "train_acc": 0.7251638930912758,
+        "val_acc": 0.7160876001497031,
+        "dirty_test_acc": 0.669905607995558,
+        "dirty_test_f1": 0.7827516901151106,
+        "AutoER_test_acc": 0.6698303134886396,
+        "AutoER_test_f1": 0.7829046898638427
+    },
+    "Restaurant/v7270/duplicates/AutoER/guassian_naive_bayes/9156": {
+        "best_params": {},
+        "train_acc": 0.7251638930912758,
+        "val_acc": 0.7160876001497031,
+        "dirty_test_acc": 0.669905607995558,
+        "dirty_test_f1": 0.7827516901151106,
+        "AutoER_test_acc": 0.6698303134886396,
+        "AutoER_test_f1": 0.7829046898638427
+    },
+    "Restaurant/v7270/duplicates/AutoER/XGBoost/753": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8811146203300751,
+        "val_acc": 0.7561758486949847,
+        "dirty_test_acc": 0.7518045530260966,
+        "dirty_test_f1": 0.8079896907216495,
+        "AutoER_test_acc": 0.7517975266033937,
+        "AutoER_test_f1": 0.8082648300377694
+    },
+    "Restaurant/v7270/duplicates/AutoER/XGBoost/8587": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8811146203300751,
+        "val_acc": 0.7561758486949847,
+        "dirty_test_acc": 0.7518045530260966,
+        "dirty_test_f1": 0.8079896907216495,
+        "AutoER_test_acc": 0.7517975266033937,
+        "AutoER_test_f1": 0.8082648300377694
+    },
+    "Restaurant/v7270/duplicates/AutoER/XGBoost/1867": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8811146203300751,
+        "val_acc": 0.7561758486949847,
+        "dirty_test_acc": 0.7518045530260966,
+        "dirty_test_f1": 0.8079896907216495,
+        "AutoER_test_acc": 0.7517975266033937,
+        "AutoER_test_f1": 0.8082648300377694
+    },
+    "Restaurant/v7270/duplicates/AutoER/XGBoost/6659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8811146203300751,
+        "val_acc": 0.7561758486949847,
+        "dirty_test_acc": 0.7518045530260966,
+        "dirty_test_f1": 0.8079896907216495,
+        "AutoER_test_acc": 0.7517975266033937,
+        "AutoER_test_f1": 0.8082648300377694
+    },
+    "Restaurant/v7270/duplicates/AutoER/XGBoost/9156": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8811146203300751,
+        "val_acc": 0.7561758486949847,
+        "dirty_test_acc": 0.7518045530260966,
+        "dirty_test_f1": 0.8079896907216495,
+        "AutoER_test_acc": 0.7517975266033937,
+        "AutoER_test_f1": 0.8082648300377694
+    },
+    "Restaurant/v7270/inconsistency/dirty/logistic_regression/753": {
+        "best_params": {
+            "C": 0.0054191155964846815
+        },
+        "train_acc": 0.8091314693634741,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7401443642420877,
+        "dirty_test_f1": 0.801358234295416,
+        "clean_test_acc": 0.7398667406996113,
+        "clean_test_f1": 0.8011037996179156
+    },
+    "Restaurant/v7270/inconsistency/dirty/logistic_regression/8587": {
+        "best_params": {
+            "C": 0.005596927568272903
+        },
+        "train_acc": 0.8093099345627603,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8015283379324984,
+        "clean_test_acc": 0.7401443642420877,
+        "clean_test_f1": 0.8012738853503185
+    },
+    "Restaurant/v7270/inconsistency/dirty/logistic_regression/1867": {
+        "best_params": {
+            "C": 0.005488838472278756
+        },
+        "train_acc": 0.8091909577632362,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8016125610014853,
+        "clean_test_acc": 0.7401443642420877,
+        "clean_test_f1": 0.801358234295416
+    },
+    "Restaurant/v7270/inconsistency/dirty/logistic_regression/6659": {
+        "best_params": {
+            "C": 0.005097594996577772
+        },
+        "train_acc": 0.8085663295657348,
+        "val_acc": 0.7857227840571088,
+        "dirty_test_acc": 0.7406996113270405,
+        "dirty_test_f1": 0.8017826825127334,
+        "clean_test_acc": 0.7404219877845641,
+        "clean_test_f1": 0.8015283379324984
+    },
+    "Restaurant/v7270/inconsistency/dirty/logistic_regression/9156": {
+        "best_params": {
+            "C": 0.0054908929239016364
+        },
+        "train_acc": 0.8091909577632362,
+        "val_acc": 0.7858417608566329,
+        "dirty_test_acc": 0.7404219877845641,
+        "dirty_test_f1": 0.8016125610014853,
+        "clean_test_acc": 0.7401443642420877,
+        "clean_test_f1": 0.801358234295416
+    },
+    "Restaurant/v7270/inconsistency/dirty/knn_classification/753": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7062742920599667,
+        "clean_test_f1": 0.7759423972892842
+    },
+    "Restaurant/v7270/inconsistency/dirty/knn_classification/8587": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7062742920599667,
+        "clean_test_f1": 0.7759423972892842
+    },
+    "Restaurant/v7270/inconsistency/dirty/knn_classification/1867": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7062742920599667,
+        "clean_test_f1": 0.7759423972892842
+    },
+    "Restaurant/v7270/inconsistency/dirty/knn_classification/6659": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7062742920599667,
+        "clean_test_f1": 0.7759423972892842
+    },
+    "Restaurant/v7270/inconsistency/dirty/knn_classification/9156": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7877156454491374,
+        "val_acc": 0.7464604402141582,
+        "dirty_test_acc": 0.7062742920599667,
+        "dirty_test_f1": 0.7759423972892842,
+        "clean_test_acc": 0.7062742920599667,
+        "clean_test_f1": 0.7759423972892842
+    },
+    "Restaurant/v7270/inconsistency/dirty/decision_tree_classification/753": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.896044021415824,
+        "val_acc": 0.711481261154075,
+        "dirty_test_acc": 0.7040533037201555,
+        "dirty_test_f1": 0.7690641247833622,
+        "clean_test_acc": 0.7040533037201555,
+        "clean_test_f1": 0.7691641403204851
+    },
+    "Restaurant/v7270/inconsistency/dirty/decision_tree_classification/8587": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8952706722189173,
+        "val_acc": 0.712908982748364,
+        "dirty_test_acc": 0.7057190449750139,
+        "dirty_test_f1": 0.7698653929656969,
+        "clean_test_acc": 0.7057190449750139,
+        "clean_test_f1": 0.7699652777777778
+    },
+    "Restaurant/v7270/inconsistency/dirty/decision_tree_classification/1867": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.896311719214753,
+        "val_acc": 0.7130279595478882,
+        "dirty_test_acc": 0.7054414214325375,
+        "dirty_test_f1": 0.7694981533782316,
+        "clean_test_acc": 0.7054414214325375,
+        "clean_test_f1": 0.7695982627578719
+    },
+    "Restaurant/v7270/inconsistency/dirty/decision_tree_classification/6659": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8961035098155861,
+        "val_acc": 0.7136228435455086,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7708649468892261,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7709642470205851
+    },
+    "Restaurant/v7270/inconsistency/dirty/decision_tree_classification/9156": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.896103509815586,
+        "val_acc": 0.7124330755502677,
+        "dirty_test_acc": 0.7073847862298723,
+        "dirty_test_f1": 0.7721573713791613,
+        "clean_test_acc": 0.7073847862298723,
+        "clean_test_f1": 0.7722558340535869
+    },
+    "Restaurant/v7270/inconsistency/dirty/adaboost_classification/753": {
+        "best_params": {
+            "learning_rate": 1.8309386197053203
+        },
+        "train_acc": 0.7608863771564545,
+        "val_acc": 0.7369422962522308,
+        "dirty_test_acc": 0.7220988339811216,
+        "dirty_test_f1": 0.7847774672113524,
+        "clean_test_acc": 0.7220988339811216,
+        "clean_test_f1": 0.7847774672113524
+    },
+    "Restaurant/v7270/inconsistency/dirty/adaboost_classification/8587": {
+        "best_params": {
+            "learning_rate": 1.5285079423325199
+        },
+        "train_acc": 0.7474717430101131,
+        "val_acc": 0.7376561570493754,
+        "dirty_test_acc": 0.726540810660744,
+        "dirty_test_f1": 0.7873947766026332,
+        "clean_test_acc": 0.726540810660744,
+        "clean_test_f1": 0.7873947766026332
+    },
+    "Restaurant/v7270/inconsistency/dirty/adaboost_classification/1867": {
+        "best_params": {
+            "learning_rate": 1.7864124402472106
+        },
+        "train_acc": 0.7590124925639501,
+        "val_acc": 0.7372992266508032,
+        "dirty_test_acc": 0.7318156579677957,
+        "dirty_test_f1": 0.7901824500434405,
+        "clean_test_acc": 0.7318156579677957,
+        "clean_test_f1": 0.7901824500434405
+    },
+    "Restaurant/v7270/inconsistency/dirty/adaboost_classification/6659": {
+        "best_params": {
+            "learning_rate": 1.5437242259735076
+        },
+        "train_acc": 0.7485425342058298,
+        "val_acc": 0.7376561570493753,
+        "dirty_test_acc": 0.7259855635757912,
+        "dirty_test_f1": 0.7879699248120301,
+        "clean_test_acc": 0.7259855635757912,
+        "clean_test_f1": 0.7879699248120301
+    },
+    "Restaurant/v7270/inconsistency/dirty/adaboost_classification/9156": {
+        "best_params": {
+            "learning_rate": 1.7589239564974144
+        },
+        "train_acc": 0.7581201665675193,
+        "val_acc": 0.7383700178465199,
+        "dirty_test_acc": 0.7301499167129373,
+        "dirty_test_f1": 0.7923964117898334,
+        "clean_test_acc": 0.7301499167129373,
+        "clean_test_f1": 0.7923964117898334
+    },
+    "Restaurant/v7270/inconsistency/dirty/random_forest_classification/753": {
+        "best_params": {
+            "max_depth": 78.0
+        },
+        "train_acc": 0.9932778108268888,
+        "val_acc": 0.7622843545508626,
+        "dirty_test_acc": 0.7476401998889506,
+        "dirty_test_f1": 0.8075375820453102,
+        "clean_test_acc": 0.747917823431427,
+        "clean_test_f1": 0.807708598051673
+    },
+    "Restaurant/v7270/inconsistency/dirty/random_forest_classification/8587": {
+        "best_params": {
+            "max_depth": 92.0
+        },
+        "train_acc": 0.9964306960142771,
+        "val_acc": 0.7622843545508626,
+        "dirty_test_acc": 0.7501388117712382,
+        "dirty_test_f1": 0.8085106382978723,
+        "clean_test_acc": 0.7498611882287618,
+        "clean_test_f1": 0.8083386513507764
+    },
+    "Restaurant/v7270/inconsistency/dirty/random_forest_classification/1867": {
+        "best_params": {
+            "max_depth": 80.0
+        },
+        "train_acc": 0.99360499702558,
+        "val_acc": 0.7622843545508626,
+        "dirty_test_acc": 0.7504164353137146,
+        "dirty_test_f1": 0.8094127623489507,
+        "clean_test_acc": 0.7504164353137146,
+        "clean_test_f1": 0.8094127623489507
+    },
+    "Restaurant/v7270/inconsistency/dirty/random_forest_classification/6659": {
+        "best_params": {
+            "max_depth": 99.0
+        },
+        "train_acc": 0.9976799524092803,
+        "val_acc": 0.7606186793575253,
+        "dirty_test_acc": 0.7473625763464742,
+        "dirty_test_f1": 0.8060528559249787,
+        "clean_test_acc": 0.7470849528039978,
+        "clean_test_f1": 0.8058810995099084
+    },
+    "Restaurant/v7270/inconsistency/dirty/random_forest_classification/9156": {
+        "best_params": {
+            "max_depth": 68.0
+        },
+        "train_acc": 0.9901844140392623,
+        "val_acc": 0.7622843545508625,
+        "dirty_test_acc": 0.7454192115491394,
+        "dirty_test_f1": 0.8065808901075723,
+        "clean_test_acc": 0.7454192115491394,
+        "clean_test_f1": 0.8065808901075723
+    },
+    "Restaurant/v7270/inconsistency/dirty/guassian_naive_bayes/753": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6662965019433648,
+        "clean_test_f1": 0.7808968282901932
+    },
+    "Restaurant/v7270/inconsistency/dirty/guassian_naive_bayes/8587": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6662965019433648,
+        "clean_test_f1": 0.7808968282901932
+    },
+    "Restaurant/v7270/inconsistency/dirty/guassian_naive_bayes/1867": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6662965019433648,
+        "clean_test_f1": 0.7808968282901932
+    },
+    "Restaurant/v7270/inconsistency/dirty/guassian_naive_bayes/6659": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6662965019433648,
+        "clean_test_f1": 0.7808968282901932
+    },
+    "Restaurant/v7270/inconsistency/dirty/guassian_naive_bayes/9156": {
+        "best_params": {},
+        "train_acc": 0.7219512195121951,
+        "val_acc": 0.7145746579417015,
+        "dirty_test_acc": 0.6662965019433648,
+        "dirty_test_f1": 0.7808968282901932,
+        "clean_test_acc": 0.6662965019433648,
+        "clean_test_f1": 0.7808968282901932
+    },
+    "Restaurant/v7270/inconsistency/dirty/XGBoost/753": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.7476401998889506,
+        "clean_test_f1": 0.8047261009667025
+    },
+    "Restaurant/v7270/inconsistency/dirty/XGBoost/8587": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.7476401998889506,
+        "clean_test_f1": 0.8047261009667025
+    },
+    "Restaurant/v7270/inconsistency/dirty/XGBoost/1867": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.7476401998889506,
+        "clean_test_f1": 0.8047261009667025
+    },
+    "Restaurant/v7270/inconsistency/dirty/XGBoost/6659": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.7476401998889506,
+        "clean_test_f1": 0.8047261009667025
+    },
+    "Restaurant/v7270/inconsistency/dirty/XGBoost/9156": {
+        "best_params": {
+            "max_depth": 7.0
+        },
+        "train_acc": 0.8764425936942297,
+        "val_acc": 0.753837001784652,
+        "dirty_test_acc": 0.747917823431427,
+        "dirty_test_f1": 0.8048990116029222,
+        "clean_test_acc": 0.7476401998889506,
+        "clean_test_f1": 0.8047261009667025
+    },
+    "Restaurant/v7270/inconsistency/clean/logistic_regression/753": {
+        "best_params": {
+            "C": 0.007684097147262791
+        },
+        "train_acc": 0.8093694229625223,
+        "val_acc": 0.785841760856633,
+        "dirty_test_acc": 0.7387562465297057,
+        "dirty_test_f1": 0.7998298234418209,
+        "clean_test_acc": 0.7384786229872293,
+        "clean_test_f1": 0.7995744680851063
+    },
+    "Restaurant/v7270/inconsistency/clean/logistic_regression/8587": {
+        "best_params": {
+            "C": 0.00763853262740976
+        },
+        "train_acc": 0.8093694229625223,
+        "val_acc": 0.7857227840571089,
+        "dirty_test_acc": 0.7387562465297057,
+        "dirty_test_f1": 0.7998298234418209,
+        "clean_test_acc": 0.7384786229872293,
+        "clean_test_f1": 0.7995744680851063
+    },
+    "Restaurant/v7270/inconsistency/clean/logistic_regression/1867": {
+        "best_params": {
+            "C": 0.0071692911813486335
+        },
+        "train_acc": 0.8093991671624033,
+        "val_acc": 0.785841760856633,
+        "dirty_test_acc": 0.7387562465297057,
+        "dirty_test_f1": 0.7998298234418209,
+        "clean_test_acc": 0.7384786229872293,
+        "clean_test_f1": 0.7995744680851063
+    },
+    "Restaurant/v7270/inconsistency/clean/logistic_regression/6659": {
+        "best_params": {
+            "C": 0.14668273997311057
+        },
+        "train_acc": 0.8119869125520524,
+        "val_acc": 0.7847709696609162,
+        "dirty_test_acc": 0.7365352581898945,
+        "dirty_test_f1": 0.7975250693407296,
+        "clean_test_acc": 0.7365352581898945,
+        "clean_test_f1": 0.7974386339381003
+    },
+    "Restaurant/v7270/inconsistency/clean/logistic_regression/9156": {
+        "best_params": {
+            "C": 0.007287912426269445
+        },
+        "train_acc": 0.8093694229625223,
+        "val_acc": 0.785841760856633,
+        "dirty_test_acc": 0.7387562465297057,
+        "dirty_test_f1": 0.7998298234418209,
+        "clean_test_acc": 0.7384786229872293,
+        "clean_test_f1": 0.7995744680851063
+    },
+    "Restaurant/v7270/inconsistency/clean/knn_classification/753": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7881320642474717,
+        "val_acc": 0.7478881618084474,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7756315007429421,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7756315007429421
+    },
+    "Restaurant/v7270/inconsistency/clean/knn_classification/8587": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7881320642474717,
+        "val_acc": 0.7478881618084474,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7756315007429421,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7756315007429421
+    },
+    "Restaurant/v7270/inconsistency/clean/knn_classification/1867": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7881320642474717,
+        "val_acc": 0.7478881618084474,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7756315007429421,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7756315007429421
+    },
+    "Restaurant/v7270/inconsistency/clean/knn_classification/6659": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7881320642474717,
+        "val_acc": 0.7478881618084474,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7756315007429421,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7756315007429421
+    },
+    "Restaurant/v7270/inconsistency/clean/knn_classification/9156": {
+        "best_params": {
+            "n_neighbors": 12.0
+        },
+        "train_acc": 0.7881320642474717,
+        "val_acc": 0.7478881618084474,
+        "dirty_test_acc": 0.7065519156024431,
+        "dirty_test_f1": 0.7756315007429421,
+        "clean_test_acc": 0.7065519156024431,
+        "clean_test_f1": 0.7756315007429421
+    },
+    "Restaurant/v7270/inconsistency/clean/decision_tree_classification/753": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 0.8452409280190363,
+        "val_acc": 0.7113622843545508,
+        "dirty_test_acc": 0.7109938922820656,
+        "dirty_test_f1": 0.7714599341383096,
+        "clean_test_acc": 0.7109938922820656,
+        "clean_test_f1": 0.7714599341383096
+    },
+    "Restaurant/v7270/inconsistency/clean/decision_tree_classification/8587": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8955681142177274,
+        "val_acc": 0.7126710291493159,
+        "dirty_test_acc": 0.7076624097723487,
+        "dirty_test_f1": 0.7724227361141128,
+        "clean_test_acc": 0.7073847862298723,
+        "clean_test_f1": 0.7722558340535869
+    },
+    "Restaurant/v7270/inconsistency/clean/decision_tree_classification/1867": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8960737656157048,
+        "val_acc": 0.7110053539559786,
+        "dirty_test_acc": 0.7021099389228207,
+        "dirty_test_f1": 0.7691976769197677,
+        "clean_test_acc": 0.7018323153803443,
+        "clean_test_f1": 0.7690322580645161
+    },
+    "Restaurant/v7270/inconsistency/clean/decision_tree_classification/6659": {
+        "best_params": {
+            "max_depth": 20.0
+        },
+        "train_acc": 0.8955978584176085,
+        "val_acc": 0.71279000594884,
+        "dirty_test_acc": 0.7032204330927263,
+        "dirty_test_f1": 0.7694630148803105,
+        "clean_test_acc": 0.7029428095502499,
+        "clean_test_f1": 0.7692971108236308
+    },
+    "Restaurant/v7270/inconsistency/clean/decision_tree_classification/9156": {
+        "best_params": {
+            "max_depth": 15.0
+        },
+        "train_acc": 0.8450922070196312,
+        "val_acc": 0.7106484235574063,
+        "dirty_test_acc": 0.7079400333148251,
+        "dirty_test_f1": 0.7696014016644765,
+        "clean_test_acc": 0.7079400333148251,
+        "clean_test_f1": 0.7696014016644765
+    }
+}
