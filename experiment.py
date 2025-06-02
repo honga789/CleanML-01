@@ -15,20 +15,33 @@ import logging
 ### my changes
 import tensorflow as tf
 
-def touch_tpu():
-    try:
-        resolver = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='')
-        tf.config.experimental_connect_to_cluster(resolver)
-        tf.tpu.experimental.initialize_tpu_system(resolver)
-        strategy = tf.distribute.TPUStrategy(resolver)
+# Global khởi tạo một lần
+_tpu_initialized = False
+_strategy = None
 
-        with strategy.scope():
+def touch_tpu():
+    global _tpu_initialized, _strategy
+
+    if not _tpu_initialized:
+        try:
+            tpu = tf.distribute.cluster_resolver.TPUClusterResolver(tpu='local')
+            tf.config.experimental_connect_to_cluster(tpu)
+            tf.tpu.experimental.initialize_tpu_system(tpu)
+            _strategy = tf.distribute.TPUStrategy(tpu)
+            _tpu_initialized = True
+            print(f"[TPU] Initialized at {datetime.datetime.now()}")
+        except Exception as e:
+            print(f"[TPU] Initialization failed: {e}")
+            return
+
+    try:
+        with _strategy.scope():
             a = tf.constant([1.0])
             b = tf.constant([2.0])
             c = a + b
-            print(f"[TPU Keepalive] {datetime.datetime.now()} Result: {c.numpy()}")
+            print(f"[TPU Keepalive] {datetime.datetime.now()} result: {c.numpy()}")
     except Exception as e:
-        print(f"[TPU Keepalive] Error: {e}")
+        print(f"[TPU Keepalive] Failed: {e}")
 
 ###
 
